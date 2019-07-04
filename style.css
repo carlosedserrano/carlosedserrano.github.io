@@ -1,14 +1,16 @@
 body{
-    background-color: blue;
+    background-color: yellow
     font-family: Arial;
-    color: white
+    color: blue;
 }
 a{
     color: yellow;
 }
 header{
     font-size: 96px;
+    text-align: center;
 }
 p{
     font-size: 29.6px
+    text-align: center;
 }
